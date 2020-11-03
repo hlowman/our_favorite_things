@@ -7,3 +7,5 @@
 # My name is Heili, and my favorite food is Thanksgiving-leftover sandwiches.
 
 # My name is Minna, and my favorite food is tacos.
+
+# My name is Ellie, and my favorite food is eggs benedict
