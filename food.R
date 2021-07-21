@@ -14,4 +14,4 @@
 
 # My name is Emily, and my favorite food is sourdough bread.
 
-# My name is Betsy, and my favorite food is fish. 
+# My name is Betsy, and my favorite food is fish and beer. 
